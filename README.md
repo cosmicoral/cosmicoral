@@ -1,9 +1,11 @@
 ## 👩‍💻 About Me
-
-Former environmental sociology researcher turned full-stack software engineer.
-I'm passionate about building AI-powered products at the intersection of technology, sustainability, and human-centred design.
-Outside of coding, you'll find me listening to techno and indie music, visiting exhibitions, or searching for multicultural food and colourful fashion.
-📍 London, UK
+> Former environmental sociology researcher turned full-stack software engineer.
+>
+> I'm passionate about building AI-powered products at the intersection of technology, sustainability, and human-centred design.
+>
+> Outside of coding, you'll find me listening to techno and indie music, visiting exhibitions, or searching for multicultural food and colourful fashion.
+>
+> 📍 London, UK
 ---
 ## ⚙️ Tech Stack
 
