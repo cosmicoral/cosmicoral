@@ -18,108 +18,90 @@ Outside of tech, I'm inspired by electronic music, independent music scenes, con
 Those experiences quietly influence how I design products.
 
 ---
-
-## 🌱 Currently Exploring
-
-- 🤖 AI Applications & Agentic Workflows
-
-- 💻 Full-Stack Engineering
-
-- 🧠 LLMs & RAG
-
-- ☁️ Cloud & Scalable Backend Systems
-
-- 🔗 Web3 & Decentralised Applications
-
-- 🌍 Sustainability & Consumer Technology
-
-- 📱 SwiftUI & iOS Development
-
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
 
-JavaScript • TypeScript • Python • SQL • Kotlin (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,kotlin" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
 
+> 📖 Currently learning Kotlin.
 ---
-
 ### 🎨 Frontend
 
-React • Vite • HTML • CSS • Tailwind CSS • SwiftUI (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+> 📖 Currently learning SwiftUI.
 
 ---
-
 ### 🔧 Backend
 
-Node.js • Express • Flask • REST APIs • Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Authentication-5C6BC0?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
 
 ---
-
 ### 🗄 Databases
 
-PostgreSQL • MongoDB • Supabase • Mongoose • pgvector(Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+</p>
+
+> 📖 Currently learning pgvector.
 
 ---
-
 ### 🤖 AI Engineering
 
-OpenAI API
-
-OpenAI Vision
-
-Prompt Engineering
-
-LLM Integration
-
-Agentic Workflows
-
-Retrieval-Augmented Generation (RAG)(Building)
-
-JSON Structured Outputs
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Vision-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Integration-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Building-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON_Structured_Outputs-4CAF50?style=for-the-badge" />
+</p>
 
 ---
-
 ### ☁️ Cloud & DevOps
 
-Git
-
-GitHub Actions
-
-Docker
-
-Vercel
-
-Render
-
-AWS (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
 ---
 
 ### 🔗 Web3
 
-Solidity
-
-Remix IDE
-
-Chainlink
-
-Base
-
-The Graph(Learning)
-
-zkVerify (Learning)
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix_IDE-5A0FC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/The_Graph-Learning-7B3FE4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/zkVerify-Learning-00A86B?style=for-the-badge" />
+</p>
 
 ---
-
 ### 🧪 Testing
 
-Jest
-
-Pytest
-
-Supertest
-
-Playwright
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,pytest" />
+  <img src="https://img.shields.io/badge/Supertest-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
 
 ## 🌐 Find Me
 
