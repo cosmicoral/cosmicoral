@@ -1,28 +1,25 @@
 ## 👩‍💻 About Me
 <p>
 Former environmental sociology researcher turned full-stack software engineer.
-I'm passionate about building AI-powered products at the intersection of technology,
-sustainability, and human-centred design.
-
-Outside of coding, you'll find me listening to techno and indie music,
-visiting exhibitions, or exploring multicultural food and colourful fashion.
+I'm passionate about building scalable software and thoughtful digital products, with a growing focus on AI-powered applications, sustainability, and human-centred design.
+Outside of coding, you'll find me listening to techno and indie music, visiting exhibitions, or exploring multicultural food and colourful fashion.
 
 📍 London, UK
 </p>
 
 ## 🌱 Currently Building
 
-🥗 AI-powered consumer applications
+💻 Full-stack web applications
 
-🤖 LLM-powered agentic workflows
+⚙️ Backend systems & REST APIs
 
-☁️ Scalable full-stack web applications
+🗄️ Database-driven software
 
-📱 Native iOS applications with SwiftUI
+📱 Native iOS applications
 
-🔗 AI + Web3 integrations
+🤖 AI-powered consumer applications
 
-🌍 Technology for sustainability and multicultural communities
+🔗 Web3 and AI integrations for real-world applications
 
 
 ## 🌐 Find Me
