@@ -74,17 +74,6 @@
 
 ---
 
-### 🔗 Web3
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Remix IDE](https://img.shields.io/badge/Remix_IDE-6C3BFF?style=for-the-badge)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge)
-![The Graph](https://img.shields.io/badge/The_Graph-6F2DBD?style=for-the-badge)
-![zkVerify](https://img.shields.io/badge/zkVerify-00A86B?style=for-the-badge)
-
----
-
 ### 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
