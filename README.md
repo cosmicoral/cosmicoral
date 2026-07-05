@@ -1,5 +1,3 @@
-# Hi, I'm Coral (Yu) Han
-
 Full-Stack Software Engineer | AI Application Builder | 🌏 Human-Centred Technologist
 
 📍 London, UK
