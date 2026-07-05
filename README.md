@@ -9,7 +9,7 @@ visiting exhibitions, or searching for multicultural food and colourful fashion.
 
 📍 London, UK
 </p>
-----------
+
 ## 🌱 Currently Building
 
 🥗 AI-powered consumer applications
@@ -24,7 +24,7 @@ visiting exhibitions, or searching for multicultural food and colourful fashion.
 
 🌍 Technology for sustainability and multicultural communities
 
--------------
+
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coral-yu-han-82a65649/)
