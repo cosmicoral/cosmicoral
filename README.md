@@ -1,7 +1,9 @@
 ## 👩‍💻 About Me
 <p>
 Former environmental sociology researcher turned full-stack software engineer.
+  
 I'm passionate about building scalable software and thoughtful digital products, with a growing focus on AI-powered applications, sustainability, and human-centred design.
+
 Outside of coding, you'll find me listening to techno and indie music, visiting exhibitions, or exploring multicultural food and colourful fashion.
 
 📍 London, UK
