@@ -31,20 +31,6 @@ Outside of coding, you'll find me listening to techno and indie music, visiting 
 📍 London, UK
 </p>
 
-## 🌱 Currently Building
-
-💻 Full-stack web applications
-
-⚙️ Backend systems & REST APIs
-
-🗄️ Database-driven software
-
-📱 Native iOS applications
-
-🤖 AI-powered consumer applications
-
-🔗 Web3 and AI integrations for real-world applications
-
 
 ## 🌐 Find Me
 
