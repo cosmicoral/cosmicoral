@@ -13,7 +13,7 @@ I am an **AI Product Engineer & Full-Stack Developer** based in London. My work 
 
 - **Languages:** TypeScript, JavaScript, Python, SQL,Solidity, Rust
 - **Frontend & State:** React, Next.js, HTML5/CSS3, Tailwind,Figma
-- **Backend & Data:** Node.js, Express, FastApi, Flask, Pydantic, PostgreSQL, MongoDB
+- **Backend & Data:** Node.js, Express, FastAPI, Flask, Pydantic, PostgreSQL, MongoDB
 - **Testing & DevOps:** Jest, Vitest, PyTest, Git Flow, CI/CD Pipelines
 
 ---
