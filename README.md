@@ -1,6 +1,6 @@
 # Hi, I'm Coral Yu Han 👋 (cosmicoral)
 
-** Full-Stack Developer · AI Product Engineer · London **
+**Full-Stack Developer · AI Product Engineer · London**
 
 I build **AI-native products, intelligent agents, and data-driven applications**. My background spans software engineering and social research, so I am particularly interested in systems where AI meets real-world human problems — from food and health to research workflows and agent safety.
 
