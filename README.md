@@ -39,7 +39,7 @@ Design explicit interfaces, contracts, and failure modes.
 Use tests to protect behaviour rather than implementation.
 Treat AI output as something to evaluate, not blindly trust.
 Make architectural trade-offs visible and intentional.
-
+```
 
 ## 🌐 Find Me
 
