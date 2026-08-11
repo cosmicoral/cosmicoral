@@ -1,35 +1,44 @@
-
 # Hi, I'm Coral Yu Han 👋 (cosmicoral)
 
-I am an **AI Product Engineer & Full-Stack Developer** based in London. My work focuses on translating deep user story and human behavioral frameworks into resilient, type-safe software architectures.
+** Full-Stack Developer · AI Product Engineer · London **
 
-- 🧠 **The Cross-Disciplinary Edge:** I hold a PhD in Environmental Sociology. I combine advanced systemic thinking with agile engineering practices to build software designed for real-world user contexts.
-- 💻 **How I Build:** Deeply committed to **Test-Driven Development (TDD)**, clean modular code design, and robust API contracts.
-- 🤖 **Current Focus:** Engineering conversational workflows, text-processing AI tools, and dynamic full-stack interfaces.
+I build **AI-native products, intelligent agents, and data-driven applications**. My background spans software engineering and social research, so I am particularly interested in systems where AI meets real-world human problems — from food and health to research workflows and agent safety.
+
+- 🤖 **Current Focus:** AI agents, RAG and memory systems, evaluation, LLM-powered workflows, and full-stack AI applications.
+- 🧱 **How I Build:** Python and TypeScript, API-first architectures, modular system design, testing, and explicit failure handling.
+- 🧠 **Cross-Disciplinary Edge:** PhD-trained researcher bringing user research, domain reasoning, and systematic analysis into product engineering.
+- 🧪 **Experimenting through:** [Gethen Field Labs](https://gethenfieldlabs.com/) — an independent AI studio for products, agents, research tools, visual technology, and experiments.
+
+---
+
+### 🚀 Featured Builds
+
+- **Mosaic Kitchen** — AI-powered multicultural meal planning and food intelligence.
+- **GrowthPilot** — Multi-agent GTM system with persistent memory, retrieval, and AI-assisted workflows.
+- **JunoGuard** — Agent-security control plane designed to supervise risky coding-agent actions.
+- **QualiSapio** — Multi-agent peer review and research intelligence for qualitative social science.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-- **Languages:** TypeScript, JavaScript, Python, SQL,Solidity, Rust
-- **Frontend & State:** React, Next.js, HTML5/CSS3, Tailwind,Figma
-- **Backend & Data:** Node.js, Express, FastAPI, Flask, Pydantic, PostgreSQL, MongoDB
-- **Testing & DevOps:** Jest, Vitest, PyTest, Git Flow, CI/CD Pipelines
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI Engineering:** LLM APIs, RAG, embeddings, vector search, AI agents, MCP, memory systems, prompt and evaluation workflows
+- **Backend & Data:** FastAPI, Node.js, Express, Flask, Pydantic, PostgreSQL, CockroachDB, MongoDB, Redis
+- **Frontend:** React, Next.js, HTML5/CSS3, Tailwind CSS, Figma
+- **Testing & Delivery:** PyTest, Jest, Vitest, TDD, Git/GitHub, CI/CD, Docker
+- **Exploring:** Rust, Solidity, Kotlin, SwiftUI
 
 ---
 
 ### 📊 Engineering Philosophy
 
-```gherkin
-Given a complex human behavioral paradox
-When translating it into a technical solution
-Then I write the failing test first (TDD)
-And build type-safe, resilient architectures that scale.
-```
-Outside of coding, you'll find me listening to techno and indie music, visiting exhibitions, or exploring multicultural food and colourful fashion.
-
-📍 London, UK
-</p>
+```text
+Understand the problem before choosing the abstraction.
+Design explicit interfaces, contracts, and failure modes.
+Use tests to protect behaviour rather than implementation.
+Treat AI output as something to evaluate, not blindly trust.
+Make architectural trade-offs visible and intentional.
 
 
 ## 🌐 Find Me
