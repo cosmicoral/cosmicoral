@@ -13,7 +13,7 @@ I build **AI-native products, intelligent agents, and data-driven applications**
 
 ### 🚀 Featured Builds
 
-- **Mosaic Kitchen** — AI-powered multicultural meal planning and food intelligence, inspired by my PhD research.
+- **Mosaic Kitchen** — AI-powered full-stack multicultural meal planning and food platform, inspired by my PhD research.
 - **GrowthPilot** — Multi-agent GTM system with persistent memory, vector retrieval, evaluation workflows, and database-backed agent infrastructure, built collaboratively for the CockroachDB x AWS Hackathon.
 - **TerraGuardian** — AI × Web3 sustainability application built during the Encode Club Remix AI Bootcamp; selected as the bootcamp’s overall winning project.
 - **Encore** — Full-stack event discovery and management platform built collaboratively during the Makers software engineering bootcamp using React, Express, MongoDB, authentication, and testing.
