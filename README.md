@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · AI Product Engineer · London**
 
-I build **AI-native products, intelligent agents, and data-driven applications**. My background spans software engineering and social research, so I am particularly interested in systems where AI meets real-world human problems — from food and health to research workflows and agent safety.
+I build **AI-native products, intelligent agents, and data-driven applications**. My background spans software engineering and social research, so I am particularly interested in systems where software applications and AI meet real-world human problems — from food and health to research workflows and agent safety.
 
 - 🤖 **Current Focus:** AI agents, RAG and memory systems, evaluation, LLM-powered workflows, and full-stack AI applications.
 - 🧱 **How I Build:** Python and TypeScript, API-first architectures, modular system design, testing, and explicit failure handling.
