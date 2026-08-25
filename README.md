@@ -25,7 +25,7 @@ I build **AI-native products, intelligent agents, and data-driven applications**
 
 Alongside my AI-focused work, I have built conventional full-stack applications across Python and JavaScript stacks through the Makers software engineering programme.
 
-- **[Acebook](https://github.com/cosmicoral/Acebook_Group_Project)** — Collaborative MERN social application built with React, Node.js, Express, MongoDB, authentication, testing, and Agile team workflows.
+- **[Acebook](https://github.com/cosmicoral/Acebook_Group_Project)** — Collaborative MERN social application built with React, Node.js, Express, MongoDB, authentication, testing, pair programming,and Agile team workflows.
 
 - **[MakersBnB](https://github.com/cosmicoral/makersbnb-coral-version)** — Full-stack booking application built with Python, Flask, PostgreSQL, Jinja, authentication, booking workflows, and PyTest/TDD.
 
