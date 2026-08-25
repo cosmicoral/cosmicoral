@@ -9,9 +9,7 @@ I build **AI-native products, intelligent agents, and data-driven applications**
 - 🧠 **Cross-Disciplinary Edge:** PhD-trained researcher bringing user research, domain reasoning, and systematic analysis into product engineering.
 - 🧪 **Experimenting through:** [Gethen Field Labs](https://gethenfieldlabs.com/) — an independent AI studio for products, agents, research tools, visual technology, and experiments.
 
-# Featured Builds
-
-```markdown
+---
 ## 🚀 Featured Builds
 
 - **[Mosaic Kitchen](https://github.com/cosmicoral/Mosaic-Kitchen-AI)** — AI-powered multicultural meal-planning and grocery platform translating my PhD research on food practices into a consumer product. Built around a **Node.js/Express backend with OpenAI-powered structured meal planning**, with a React + TypeScript web client and PostgreSQL-backed personalisation layer under active development. Focuses on culturally relevant recommendations, household inventory, budget-aware planning, bilingual UX, and food-waste reduction.
@@ -21,7 +19,7 @@ I build **AI-native products, intelligent agents, and data-driven applications**
 - **[TerraGuardian](https://github.com/cosmicoral/TerraGuardian)** — Award-winning environmental intelligence platform combining **React, TypeScript, Gemini 2.5 Flash, Chainlink CRE, Solidity, Ethereum Sepolia and live public-health/climate APIs**. Separates AI interpretation from a deterministic policy engine so model outputs cannot directly authorise downstream actions, then publishes eligible decisions through a verifiable blockchain workflow. Also includes an independent **Circom + Groth16 + zkVerify** zero-knowledge proof demonstration. Selected as the **Overall Winner** of the Encode Club Remix AI Bootcamp.
 
 - **[Encore](https://github.com/cosmicoral/events-webapp)** — Full-stack live-music discovery application built in a five-person Makers engineering team using **React, Vite, Node.js, Express, MongoDB, Mongoose and Better Auth**. Integrates the **Ticketmaster Discovery API, Google Maps and Geoapify** to support location-aware event discovery, filtering, saved events, artist following and personalised recommendations, with a separated frontend/API architecture and collaborative Agile delivery.
-```
+---
 
 ## 🧩 Software Engineering Foundations
 
